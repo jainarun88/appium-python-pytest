@@ -1,0 +1,23 @@
+2024-06-01 23:48:06,221 - HotelScreen.py:[135] - [INFO] - Total Element count 7
+ch_textbox_XPATH
+2024-06-01 23:47:37,752 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : vivo mobile charger
+2024-06-01 23:47:39,617 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-06-01 23:47:52,126 - BasePage.py:[38] - [INFO] - Clicking on an Element add_to_cart_XPATH
+2024-06-01 23:47:56,660 - BasePage.py:[38] - [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-06-01 23:48:00,484 - BasePage.py:[38] - [INFO] - Clicking on an Element place_order_XPATH
+2024-06-01 23:48:06,441 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 0
+2024-06-01 23:48:06,732 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 1
+2024-06-01 23:48:07,474 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 2
+2024-06-01 23:48:07,758 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 3
+2024-06-01 23:48:07,997 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 4
+2024-06-01 23:48:08,202 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 5
+2024-06-01 23:48:08,392 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 6
+2024-06-01 23:48:12,802 - BasePage.py:[38] - [INFO] - Clicking on an Element continue_order_btn_XPATH
+2024-06-01 23:48:20,908 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_downArrow_XPATH
+2024-06-01 23:48:22,445 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_no_XPATH
+2024-06-01 23:48:23,176 - BasePage.py:[63] - [INFO] - Typing in an Element cc_no_XPATH entered the value as : 1234567890123456
+2024-06-01 23:48:25,925 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_valid_year_XPATH
+2024-06-01 23:48:26,878 - BasePage.py:[63] - [INFO] - Typing in an Element cc_valid_year_XPATH entered the value as : 04/25
+2024-06-01 23:48:28,551 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_cvv_XPATH
+2024-06-01 23:48:29,531 - BasePage.py:[63] - [INFO] - Typing in an Element cc_cvv_XPATH entered the value as : 123
+2024-06-01 23:48:30,854 - BasePage.py:[38] - [INFO] - Clicking on an Element pay_btn_XPATH

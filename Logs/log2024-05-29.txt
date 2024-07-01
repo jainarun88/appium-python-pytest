@@ -1,0 +1,17 @@
+2024-05-29 16:22:57,909 - HotelScreen.py:[112] - [INFO] - Total Element count 7
+ch_textbox_XPATH
+2024-05-29 16:22:32,485 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : vivo mobile charger
+2024-05-29 16:22:33,894 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-05-29 16:22:46,030 - BasePage.py:[38] - [INFO] - Clicking on an Element add_to_cart_XPATH
+2024-05-29 16:22:50,909 - BasePage.py:[38] - [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-05-29 16:22:54,524 - BasePage.py:[38] - [INFO] - Clicking on an Element place_order_XPATH
+2024-05-29 16:23:00,702 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 0
+2024-05-29 16:23:00,916 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 1
+2024-05-29 16:23:01,158 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 2
+2024-05-29 16:23:01,479 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 3
+2024-05-29 16:23:01,715 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 4
+2024-05-29 16:23:01,935 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 5
+2024-05-29 16:23:03,530 - BasePage.py:[47] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 5
+2024-05-29 16:23:03,827 - BasePage.py:[110] - [INFO] - Hit back button the value as : 4
+2024-05-29 16:23:08,739 - BasePage.py:[63] - [INFO] - Typing in an Element login_phone_id_XPATH entered the value as : 9754423998
+2024-05-29 16:23:09,934 - BasePage.py:[38] - [INFO] - Clicking on an Element continue_btn_XPATH

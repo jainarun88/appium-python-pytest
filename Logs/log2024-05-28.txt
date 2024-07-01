@@ -1,0 +1,4 @@
+2024-05-28 11:07:04,622 - BasePage.py:[87] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 0
+2024-05-28 11:07:04,719 - BasePage.py:[87] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-05-28 11:07:04,891 - BasePage.py:[47] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-05-28 11:07:07,050 - BasePage.py:[110] - [INFO] - Hit back button the value as : 4

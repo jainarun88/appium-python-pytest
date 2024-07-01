@@ -1,0 +1,3 @@
+2024-05-19 19:35:14,367 - BasePage.py:[38] - [INFO] - Clicking on an Element search_textbox_XPATH
+2024-05-19 19:35:20,012 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : vivo mobile charger
+2024-05-19 19:35:22,841 - BasePage.py:[98] - [INFO] - Typing in an Element vivo_mobile_charger_edit_XPATH entered the value as : 66

@@ -1,0 +1,24 @@
+2024-06-02 21:49:15,078 - HotelScreen.py:[162] - [INFO] - Total Element count 7
+ch_textbox_XPATH
+2024-06-02 21:48:28,206 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : type c to micro usb connector
+2024-06-02 21:48:29,026 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-06-02 21:48:58,273 - BasePage.py:[38] - [INFO] - Clicking on an Element add_to_cart_XPATH
+2024-06-02 21:49:01,835 - BasePage.py:[38] - [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-06-02 21:49:04,492 - BasePage.py:[38] - [INFO] - Clicking on an Element place_order_XPATH
+2024-06-02 21:49:15,407 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 0
+2024-06-02 21:49:15,731 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 1
+2024-06-02 21:49:15,998 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 2
+2024-06-02 21:49:16,698 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 3
+2024-06-02 21:49:18,307 - BasePage.py:[47] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 3
+2024-06-02 21:49:18,665 - BasePage.py:[132] - [INFO] - Hit back button the value as : 4
+2024-06-02 21:49:23,103 - BasePage.py:[38] - [INFO] - Clicking on an Element continue_order_btn_XPATH
+2024-06-02 21:49:31,476 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_downArrow_XPATH
+2024-06-02 21:49:33,434 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_no_XPATH
+2024-06-02 21:49:34,961 - BasePage.py:[63] - [INFO] - Typing in an Element cc_no_XPATH entered the value as : 4315813955699002
+2024-06-02 21:49:36,469 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_valid_year_XPATH
+2024-06-02 21:49:37,691 - BasePage.py:[63] - [INFO] - Typing in an Element cc_valid_year_XPATH entered the value as : 02/30
+2024-06-02 21:49:38,947 - BasePage.py:[38] - [INFO] - Clicking on an Element cc_cvv_XPATH
+2024-06-02 21:49:40,204 - BasePage.py:[63] - [INFO] - Typing in an Element cc_cvv_XPATH entered the value as : 143
+2024-06-02 21:49:42,508 - BasePage.py:[132] - [INFO] - Hit back button the value as : 4
+2024-06-02 21:49:47,594 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-06-02 21:49:58,061 - BasePage.py:[38] - [INFO] - Clicking on an Element maybe_later_XPATH

@@ -1,0 +1,1 @@
+2024-05-20 17:09:38,711 - BasePage.py:[47] - [INFO] - Clicking on an Element sms_list_XPATHwith index : 0

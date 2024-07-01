@@ -1,0 +1,27 @@
+2024-05-30 12:29:20,312 - HotelScreen.py:[114] - [INFO] - Total Element count 7
+ch_textbox_XPATH
+2024-05-30 12:28:55,313 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : vivo mobile charger
+2024-05-30 12:28:56,826 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-05-30 12:29:09,398 - BasePage.py:[38] - [INFO] - Clicking on an Element add_to_cart_XPATH
+2024-05-30 12:29:14,819 - BasePage.py:[38] - [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-05-30 12:29:17,783 - BasePage.py:[38] - [INFO] - Clicking on an Element place_order_XPATH
+2024-05-30 12:29:23,210 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 0
+2024-05-30 12:29:23,489 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 1
+2024-05-30 12:29:23,757 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 2
+2024-05-30 12:29:24,103 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 3
+2024-05-30 12:29:24,336 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 4
+2024-05-30 12:29:24,597 - BasePage.py:[87] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 5
+2024-05-30 12:29:26,376 - BasePage.py:[47] - [INFO] - Clicking on an Element vivo_msg_sender_name_list_XPATHwith index : 5
+2024-05-30 12:29:26,699 - BasePage.py:[132] - [INFO] - Hit back button the value as : 4
+2024-05-30 12:29:31,043 - BasePage.py:[38] - [INFO] - Clicking on an Element login_phone_id_XPATH
+2024-05-30 12:29:31,355 - BasePage.py:[110] - [INFO] - Hit enter button the value as : 16
+2024-05-30 12:29:31,946 - BasePage.py:[112] - [INFO] - Hit enter button the value as : 14
+2024-05-30 12:29:32,475 - BasePage.py:[114] - [INFO] - Hit enter button the value as : 12
+2024-05-30 12:29:33,004 - BasePage.py:[116] - [INFO] - Hit enter button the value as : 11
+2024-05-30 12:29:33,534 - BasePage.py:[118] - [INFO] - Hit enter button the value as : 11
+2024-05-30 12:29:34,057 - BasePage.py:[120] - [INFO] - Hit enter button the value as : 9
+2024-05-30 12:29:34,592 - BasePage.py:[122] - [INFO] - Hit enter button the value as : 10
+2024-05-30 12:29:35,118 - BasePage.py:[124] - [INFO] - Hit enter button the value as : 16
+2024-05-30 12:29:35,645 - BasePage.py:[126] - [INFO] - Hit enter button the value as : 16
+2024-05-30 12:29:36,167 - BasePage.py:[128] - [INFO] - Hit enter button the value as : 15
+2024-05-30 12:29:39,149 - BasePage.py:[38] - [INFO] - Clicking on an Element continue_btn_XPATH
