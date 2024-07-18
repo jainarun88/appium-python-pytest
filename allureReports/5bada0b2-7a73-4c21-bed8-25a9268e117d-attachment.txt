@@ -1,0 +1,4 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element search_textbox_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:53 Typing in an Element search_text_2_CLASSNAME entered the value as : OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter
+[32mINFO    [0m Pages.BasePage:BasePage.py:95 Hit enter button the value as : 66
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element (//android.widget.TextView[@text="OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter"])[1]

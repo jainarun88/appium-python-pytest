@@ -1,0 +1,8 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element search_textbox_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:53 Typing in an Element search_text_2_CLASSNAME entered the value as : OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter
+[32mINFO    [0m Pages.BasePage:BasePage.py:95 Hit enter button the value as : 66
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:190 Total Element count 2
+[32mINFO    [0m Pages.BasePage:BasePage.py:77 Clicking on an Element sms_conversation_name_XPATHwith index : 0
+[32mINFO    [0m Pages.BasePage:BasePage.py:77 Clicking on an Element sms_conversation_name_XPATHwith index : 1
+[32mINFO    [0m Pages.BasePage:BasePage.py:38 Clicking on an Element sms_conversation_name_XPATHwith index : 1
+[32mINFO    [0m Pages.BasePage:BasePage.py:121 Hit back button the value as : 4

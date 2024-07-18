@@ -16,25 +16,29 @@ class BasePage:
     def __init__(self, driver):
         self.driver = driver
 
-    # def click(self, locator):
-    #     if str(locator).endswith("_XPATH"):
-    #         self.driver.find_element_by_xpath(configReader.readConfig("locators", locator)).click()
-    #     elif str(locator).endswith("_ACCESSIBILITYID"):
-    #         self.driver.find_element_by_accessibility_id(configReader.readConfig("locators", locator)).click()
-    #     elif str(locator).endswith("_ID"):
-    #         self.driver.find_element_by_id(configReader.readConfig("locators", locator)).click()
-    #     log.logger.info("Clicking on an Element "+ str(locator))
-
+    def elementIsDisplay(self, locator):
+        if str(locator).endswith("_XPATH"):
+            element = self.driver.find_element(by=AppiumBy.XPATH, value=configReader.readConfig("locators", locator)).is_displayed()
+        elif str(locator).endswith("_ACCESSIBILITYID"):
+            element = self.driver.find_element(by=AppiumBy.ACCESSIBILITY_ID,
+                                     value=configReader.readConfig("locators", locator)).is_displayed()
+        elif str(locator).endswith("_ID"):
+            element = self.driver.find_element(by=AppiumBy.ID, value=configReader.readConfig("locators", locator)).is_displayed()
+        else:
+            element = self.driver.find_element(by=AppiumBy.XPATH, value=locator).is_displayed()
+        log.logger.info("Element is displayed :: " + str(element))
+        return element
+    
     def click(self, locator):
         if str(locator).endswith("_XPATH"):
             self.driver.find_element(by=AppiumBy.XPATH, value=configReader.readConfig("locators", locator)).click()
         elif str(locator).endswith("_ACCESSIBILITYID"):
             self.driver.find_element(by=AppiumBy.ACCESSIBILITY_ID,
                                      value=configReader.readConfig("locators", locator)).click()
-            # self.driver.find_element_by_accessibility_id(configReader.readConfig("locators", locator))
         elif str(locator).endswith("_ID"):
             self.driver.find_element(by=AppiumBy.ID, value=configReader.readConfig("locators", locator)).click()
-            # self.driver.find_element_by_id(configReader.readConfig("locators", locator))
+        else:
+            self.driver.find_element(by=AppiumBy.XPATH, value=locator).click()
         log.logger.info("Clicking on an Element " + str(locator))
 
     def clickIndex(self, locator, index):
@@ -53,7 +57,6 @@ class BasePage:
         elif str(locator).endswith("_ACCESSIBILITYID"):
             self.driver.find_element(by=AppiumBy.ACCESSIBILITY_ID,
                                      value=configReader.readConfig("locators", locator)).send_keys(value)
-            # self.driver.find_element_by_accessibility_id(configReader.readConfig("locators", locator))
         elif str(locator).endswith("_ID"):
             self.driver.find_element(by=AppiumBy.ID, value=configReader.readConfig("locators", locator)).send_keys(
                 value)
@@ -95,7 +98,6 @@ class BasePage:
         elif str(locator).endswith("_ACCESSIBILITYID"):
             self.driver.find_element(by=AppiumBy.ACCESSIBILITY_ID,
                                      value=configReader.readConfig("locators", locator)).send_keys(Keys.ENTER)
-            # self.driver.find_element_by_accessibility_id(configReader.readConfig("locators", locator))
         elif str(locator).endswith("_ID"):
             self.driver.find_element(by=AppiumBy.ID, value=configReader.readConfig("locators", locator)).send_keys(
                 Keys.ENTER)

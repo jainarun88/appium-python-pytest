@@ -24,15 +24,3 @@ def setCellData(path, sheetName, rowNum, colNum, data):
     sheet = workbook[sheetName]
     sheet.cell(row=rowNum, column=colNum).value = data
     workbook.save(path)
-
-
-path = "..//excel//testdata.xlsx"
-sheetName = "LoginTest"
-
-rows = getRowCount(path,sheetName)
-cols = getColCount(path,sheetName)
-
-print(rows,"---",cols)
-
-print(getCellData(path,sheetName,2,1))
-setCellData(path,sheetName,1,4,"DOB")

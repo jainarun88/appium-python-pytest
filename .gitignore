@@ -1,0 +1,7 @@
+Utilities/__pycache__/*
+TestCases/__pycache__/*
+Utilities/__pycache__/__init__.cpython-311.pyc
+Utilities/__pycache__/configReader.cpython-311.pyc
+Utilities/__pycache__/dataProvider.cpython-311.pyc
+Utilities/__pycache__/LogUtil.cpython-311.pyc
+Utilities/__pycache__/scroll_util.cpython-311.pyc

@@ -1,6 +1,5 @@
 from Pages.BasePage import BasePage
-from Pages.HotelScreen import HotelScreen
-from Pages.VillasScreen import VillasScreen
+from Pages.ProductScreen import ProductScreen
 
 
 class HomeScreen(BasePage):
@@ -9,18 +8,6 @@ class HomeScreen(BasePage):
         super().__init__(driver)
 
     def gotoSearchScreen(self):
-        return HotelScreen(self.driver)
+        return ProductScreen(self.driver)
 
-    def gotoHotels(self):
-        self.click("hotels_ID")
-        return HotelScreen(self.driver)
 
-    def gotoVillas(self):
-        self.click("villas_XPATH")
-        return VillasScreen(self.driver)
-
-    def gotoFlights(self):
-        pass
-
-    def gotoTrains(self):
-        pass

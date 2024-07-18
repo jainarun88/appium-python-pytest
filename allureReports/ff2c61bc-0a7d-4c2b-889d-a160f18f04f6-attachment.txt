@@ -1,0 +1,8 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element account_tab_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element orders_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element latest_oreder_item_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element edit_order_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element cancel_order_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element cancel_offer_order_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element my_reason_not_listed_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:53 Typing in an Element comment_XPATH entered the value as : Not Like Product

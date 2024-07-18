@@ -1,0 +1,28 @@
+2024-07-19 01:00:37,953 - ProductScreen.py:[117] - [INFO] - Order Placed
+2024-07-19 01:00:47,475 - ProductScreen.py:[196] - [INFO] - Total Element count 2
+2024-07-19 01:00:47,703 - ProductScreen.py:[199] - [INFO] - Anu
+2024-07-19 01:00:49,279 - ProductScreen.py:[199] - [INFO] - arun jain
+2024-07-19 01:00:52,872 - ProductScreen.py:[205] - [INFO] - 886243 is the One Time Password (OTP) for ECOMM txn of INR 161.00 at AMAZON PAY INDI on Credit Card ending 9958 Reference # ECOM_7618135351604883156.This OTP is usable only once and is valid for 10 mins. PLS DO NOT SHARE THE OTP WITH ANYONE - IndusInd Bank
+2024-07-19 01:00:52,873 - ProductScreen.py:[207] - [INFO] - ['886243', '161', '00', '9958', '10']
+2024-07-19 01:00:52,873 - ProductScreen.py:[209] - [INFO] - FLPKRT OTP is :: 886243
+2024-07-19 01:01:25,378 - ProductScreen.py:[122] - [INFO] - Order Placed
+ - [INFO] - Clicking on an Element continue_order_btn_XPATH
+2024-07-19 00:59:30,380 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_no_XPATH
+2024-07-19 00:59:32,098 - BasePage.py:[53] - [INFO] - Typing in an Element cc_no_XPATH entered the value as : 4315813955699002
+2024-07-19 00:59:33,780 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_valid_year_XPATH
+2024-07-19 00:59:35,010 - BasePage.py:[53] - [INFO] - Typing in an Element cc_valid_year_XPATH entered the value as : 02/30
+2024-07-19 00:59:36,229 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_cvv_XPATH
+2024-07-19 00:59:37,458 - BasePage.py:[53] - [INFO] - Typing in an Element cc_cvv_XPATH entered the value as : 143
+2024-07-19 00:59:47,729 - BasePage.py:[29] - [INFO] - Clicking on an Element pay_btn_XPATH
+2024-07-19 00:59:57,951 - BasePage.py:[29] - [INFO] - Clicking on an Element maybe_later_XPATH
+2024-07-19 01:00:47,699 - BasePage.py:[77] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 0
+2024-07-19 01:00:49,272 - BasePage.py:[77] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-07-19 01:00:49,502 - BasePage.py:[38] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-07-19 01:00:54,187 - BasePage.py:[121] - [INFO] - Hit back button the value as : 4
+2024-07-19 01:01:29,785 - BasePage.py:[29] - [INFO] - Clicking on an Element cross_button_XPATH
+2024-07-19 01:01:32,429 - BasePage.py:[29] - [INFO] - Clicking on an Element latest_oreder_item_XPATH
+2024-07-19 01:01:35,616 - BasePage.py:[29] - [INFO] - Clicking on an Element edit_order_XPATH
+2024-07-19 01:01:36,566 - BasePage.py:[29] - [INFO] - Clicking on an Element cancel_order_XPATH
+2024-07-19 01:01:38,563 - BasePage.py:[29] - [INFO] - Clicking on an Element cancel_offer_order_XPATH
+2024-07-19 01:01:40,961 - BasePage.py:[29] - [INFO] - Clicking on an Element my_reason_not_listed_XPATH
+2024-07-19 01:01:42,134 - BasePage.py:[53] - [INFO] - Typing in an Element comment_XPATH entered the value as : Not Like Product
