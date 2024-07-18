@@ -1,0 +1,10 @@
+OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter
+4315813955699002
+02/30
+143
+(//android.widget.TextView[@text="OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter"])[1]
+2
+Anu
+arun jain
+FLPKRT OTP is ::  ['886243', '161', '00', '9958', '10']
+886243

@@ -1,0 +1,13 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:29 Clicking on an Element search_textbox_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:53 Typing in an Element search_text_2_CLASSNAME entered the value as : OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter
+[32mINFO    [0m Pages.BasePage:BasePage.py:95 Hit enter button the value as : 66
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:190 Total Element count 2
+[32mINFO    [0m Pages.BasePage:BasePage.py:77 Clicking on an Element sms_conversation_name_XPATHwith index : 0
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:193 Anu
+[32mINFO    [0m Pages.BasePage:BasePage.py:77 Clicking on an Element sms_conversation_name_XPATHwith index : 1
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:193 arun jain
+[32mINFO    [0m Pages.BasePage:BasePage.py:38 Clicking on an Element sms_conversation_name_XPATHwith index : 1
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:199 886243 is the One Time Password (OTP) for ECOMM txn of INR 161.00 at AMAZON PAY INDI on Credit Card ending 9958 Reference # ECOM_7618135351604883156.This OTP is usable only once and is valid for 10 mins. PLS DO NOT SHARE THE OTP WITH ANYONE - IndusInd Bank
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:202 ['886243', '161', '00', '9958', '10']
+[32mINFO    [0m Pages.ProductScreen:ProductScreen.py:204 886243
+[32mINFO    [0m Pages.BasePage:BasePage.py:121 Hit back button the value as : 4

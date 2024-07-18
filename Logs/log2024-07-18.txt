@@ -1,0 +1,21 @@
+2024-07-18 23:59:56,581 - ProductScreen.py:[190] - [INFO] - Total Element count 2
+2024-07-18 23:59:58,779 - ProductScreen.py:[193] - [INFO] - Anu
+2024-07-18 23:59:58,864 - ProductScreen.py:[193] - [INFO] - arun jain
+2024-07-19 00:00:01,722 - ProductScreen.py:[199] - [INFO] - 886243 is the One Time Password (OTP) for ECOMM txn of INR 161.00 at AMAZON PAY INDI on Credit Card ending 9958 Reference # ECOM_7618135351604883156.This OTP is usable only once and is valid for 10 mins. PLS DO NOT SHARE THE OTP WITH ANYONE - IndusInd Bank
+2024-07-19 00:00:01,723 - ProductScreen.py:[201] - [INFO] - ['886243', '161', '00', '9958', '10']
+2024-07-19 00:00:01,723 - ProductScreen.py:[203] - [INFO] - FLPKRT OTP is :: 886243
+rt_XPATH
+2024-07-18 23:59:12,113 - BasePage.py:[29] - [INFO] - Clicking on an Element place_order_XPATH
+2024-07-18 23:59:14,247 - BasePage.py:[29] - [INFO] - Clicking on an Element continue_order_btn_XPATH
+2024-07-18 23:59:26,981 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_no_XPATH
+2024-07-18 23:59:28,453 - BasePage.py:[53] - [INFO] - Typing in an Element cc_no_XPATH entered the value as : 4315813955699000
+2024-07-18 23:59:29,680 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_valid_year_XPATH
+2024-07-18 23:59:30,885 - BasePage.py:[53] - [INFO] - Typing in an Element cc_valid_year_XPATH entered the value as : 02/30
+2024-07-18 23:59:32,100 - BasePage.py:[29] - [INFO] - Clicking on an Element cc_cvv_XPATH
+2024-07-18 23:59:33,291 - BasePage.py:[53] - [INFO] - Typing in an Element cc_cvv_XPATH entered the value as : 143
+2024-07-18 23:59:43,137 - BasePage.py:[29] - [INFO] - Clicking on an Element pay_btn_XPATH
+2024-07-18 23:59:43,237 - BasePage.py:[95] - [INFO] - Hit enter button the value as : 66
+2024-07-18 23:59:58,770 - BasePage.py:[77] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 0
+2024-07-18 23:59:58,861 - BasePage.py:[77] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-07-18 23:59:58,959 - BasePage.py:[38] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 1
+2024-07-19 00:00:02,705 - BasePage.py:[121] - [INFO] - Hit back button the value as : 4

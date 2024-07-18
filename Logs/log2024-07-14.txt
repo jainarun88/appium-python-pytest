@@ -1,0 +1,8 @@
+2024-07-14 00:34:55,437 - BasePage.py:[38] - [INFO] - Clicking on an Element search_textbox_XPATH
+2024-07-14 00:35:01,253 - BasePage.py:[63] - [INFO] - Typing in an Element search_text_2_CLASSNAME entered the value as : OSSOBERRY Micro USB, USB Type C, Lightning OTG Adapter
+2024-07-14 00:35:02,563 - BasePage.py:[106] - [INFO] - Hit enter button the value as : 66
+2024-07-14 00:35:06,390 - BasePage.py:[38] - [INFO] - Clicking on an Element product_item_XPATH
+2024-07-14 00:35:13,871 - BasePage.py:[38] - [INFO] - Clicking on an Element add_to_cart_XPATH
+2024-07-14 00:35:17,449 - BasePage.py:[38] - [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-07-14 00:35:22,282 - BasePage.py:[38] - [INFO] - Clicking on an Element place_order_XPATH
+2024-07-14 00:35:25,815 - BasePage.py:[38] - [INFO] - Clicking on an Element continue_order_btn_XPATH
