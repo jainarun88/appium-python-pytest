@@ -1,0 +1,22 @@
+2024-07-27 11:12:02,148 - ProductScreen.py:[195] - [INFO] - Total Element count 2
+2024-07-27 11:12:04,512 - ProductScreen.py:[198] - [INFO] - Anu
+2024-07-27 11:12:08,707 - ProductScreen.py:[204] - [INFO] - 345623 is the One Time Password (OTP) for ECOMM txn of INR 161.00 at AMAZON PAY INDI on Credit Card ending 9958 Reference # ECOM_7618135351604883156.This OTP is usable only once and is valid for 10 mins. PLS DO NOT SHARE THE OTP WITH ANYONE - IndusInd Bank
+2024-07-27 11:12:08,708 - ProductScreen.py:[206] - [INFO] - ['345623', '161', '00', '9958', '10']
+2024-07-27 11:12:08,708 - ProductScreen.py:[208] - [INFO] - FLPKRT OTP is :: 345623
+2024-07-27 11:12:45,515 - ProductScreen.py:[120] - [INFO] - Order Placed
+- [INFO] - Clicking on an Element go_to_cart_XPATH
+2024-07-27 11:11:14,730 - BasePage.py:[42] - [INFO] - Clicking on an Element place_order_XPATH
+2024-07-27 11:11:18,110 - BasePage.py:[42] - [INFO] - Clicking on an Element continue_order_btn_XPATH
+2024-07-27 11:11:32,006 - BasePage.py:[42] - [INFO] - Clicking on an Element cc_no_XPATH
+2024-07-27 11:11:34,426 - BasePage.py:[66] - [INFO] - Typing in an Element cc_no_XPATH entered the value as : 4315813955699002
+2024-07-27 11:11:36,117 - BasePage.py:[42] - [INFO] - Clicking on an Element cc_valid_year_XPATH
+2024-07-27 11:11:38,531 - BasePage.py:[66] - [INFO] - Typing in an Element cc_valid_year_XPATH entered the value as : 02/30
+2024-07-27 11:11:40,528 - BasePage.py:[42] - [INFO] - Clicking on an Element cc_cvv_XPATH
+2024-07-27 11:11:41,931 - BasePage.py:[66] - [INFO] - Typing in an Element cc_cvv_XPATH entered the value as : 143
+2024-07-27 11:11:50,959 - BasePage.py:[42] - [INFO] - Clicking on an Element pay_btn_XPATH
+2024-07-27 11:11:53,192 - BasePage.py:[42] - [INFO] - Clicking on an Element maybe_later_XPATH
+2024-07-27 11:12:04,508 - BasePage.py:[90] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 0
+2024-07-27 11:12:04,639 - BasePage.py:[51] - [INFO] - Clicking on an Element sms_conversation_name_XPATHwith index : 0
+2024-07-27 11:12:10,062 - BasePage.py:[134] - [INFO] - Hit back button the value as : 4
+2024-07-27 11:12:13,653 - BasePage.py:[66] - [INFO] - Typing in an Element otp_textbox_XPATH entered the value as : 345623
+2024-07-27 11:12:14,514 - BasePage.py:[42] - [INFO] - Clicking on an Element otp_submit_btn_XPATH
