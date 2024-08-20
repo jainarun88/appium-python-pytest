@@ -1,5 +1,8 @@
 Install Python version 3 - https://www.python.org/downloads/
 
+Download and install Allure setup for reporting - https://github.com/allure-framework/allure2/releases/tag/2.30.0
+    Setup Guideline - https://allurereport.org/docs/install-for-windows/
+
 Install Appium Inspector - https://github.com/appium/appium-inspector/releases
 
 Install Appium Server GUI - https://github.com/appium/appium-desktop/releases
