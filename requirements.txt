@@ -1,0 +1,10 @@
+Appium-Python-Client
+selenium
+pytest
+allure-pytest
+pytest-parallel
+pytest-xdist
+pytest-html-reporter
+openpyxl
+requests
+webdriver-manager

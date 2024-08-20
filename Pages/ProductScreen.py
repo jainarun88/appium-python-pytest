@@ -9,7 +9,7 @@ from Utilities.LogUtil import Logger
 from Utilities.scroll_util import ScrollUtil
 
 log = Logger(__name__, logging.INFO)
-
+card_otp = None
 
 class ProductScreen(BasePage):
 
@@ -96,10 +96,10 @@ class ProductScreen(BasePage):
         sleep(2)
         self.driver.hide_keyboard()
         # self.pressBack()
-        sleep(5)
+        sleep(2)
         self.click("pay_btn_XPATH")
         # self.pressEnter()
-        sleep(5)
+        sleep(.5)
         # self.pressEnter()
         # self.click("pay_btn_XPATH")
         # sleep(5)
@@ -109,12 +109,10 @@ class ProductScreen(BasePage):
         # self.click("allow_XPATH")
         # sleep(5)
         # self.click("permission_allow_XPATH")
-        sleep(5)
+        sleep(.5)
         self.click("maybe_later_XPATH")
-        sleep(40)
-        # self.click("maybe_later_XPATH")
-        print("Order Placed")
-        log.logger.info("Order Placed")
+        sleep(.5)
+
 
     def orderPlaced(self):
         sleep(30)
@@ -186,6 +184,7 @@ class ProductScreen(BasePage):
                     otp = re.findall(r'\b\d+\b', text)
                     print("FLPKRT OTP is :: ", otp)
                     print(otp[0])
+                    card_otp = otp[0]
                     self.pressBack()
                     break
         elif device == 'emulator':
@@ -198,7 +197,7 @@ class ProductScreen(BasePage):
                 conversationName = self.getTextIndex("sms_conversation_name_XPATH", i)
                 log.logger.info(conversationName)
                 print(conversationName)
-                if 'arun jain' in conversationName:
+                if 'arun jain' or 'AD-INDUSO' in conversationName:
                     self.clickIndex("sms_conversation_name_XPATH", i)
                     self.driver.implicitly_wait(30)
                     text = self.getText("sms_text_XPATH")
@@ -208,8 +207,17 @@ class ProductScreen(BasePage):
                     print("FLPKRT OTP is :: ", otp)
                     log.logger.info("FLPKRT OTP is :: "+otp[0])
                     print(otp[0])
+                    card_otp = otp[0]
                     self.pressBack()
                     break
+        return card_otp
+    
+    def enterOTP(self, otp):
+        sleep(2)
+        self.type("otp_textbox_XPATH", otp)
+        sleep(.5)
+        self.click("otp_submit_btn_XPATH")
+        sleep(1)
 
     def cancelOrder(self):
         sleep(2)
